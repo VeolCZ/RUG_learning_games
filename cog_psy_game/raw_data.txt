@@ -1,0 +1,1092 @@
+descriptive rules Rules that simply describe the regularities in a pattern of
+observations, with no commentary on whether the pattern is “proper,”“correct,” or “desirable.” (Ch. 10)
+detector A node within a processing network that fires primarily in response
+to a specific target contained within the incoming perceptual information.
+diagnostic information Information about a particular case, often contrasted
+with base-rate information. (Ch. 12)
+dichotic listening A task in which research participants hear two
+simultaneous verbal messages—one presented via headphones to the left
+ear and a second one presented to the right ear. In typical experiments,
+participants are asked to pay attention to one of these inputs (the attended
+channel) and are urged to ignore the other (the unattended channel).
+(Ch. 5)
+digit-span task A task often used for measuring working memory’s storage
+capacity. Research participants are read a series of digits (e.g., “8 3 4”)
+and must immediately repeat them back. If they do this successfully, they
+are given a slightly longer list (e.g., “9 2 4 0”), and so forth. The length
+of the longest list a person can remember in this fashion is that person’s
+digit span. Also see operation span. (Ch. 6)
+direct memory testing A form of memory testing in which people are asked
+explicitly to remember some previous event. Recall and standard
+recognition testing are both forms of direct memory testing. Often
+contrasted with indirect memory testing. (Ch. 7)
+distance cues Information available to the perceiver that allows the
+perceiver to judge how far off a target object is. (Ch. 3)
+distributed representation A mode of representing ideas or contents in
+which there is no one node (or specific group of nodes) representing the
+content and no one place where the content is stored. Instead, the content
+is represented via a pattern of simultaneous activity across many nodes
+within a network. The same nodes will also participate in other patterns,
+so those nodes will also be part of other distributed representations.
+Often contrasted with local representation. (Ch. 4)
+divergent thinking An ability to move one’s thoughts in novel, unanticipated
+directions. Often contrasted with convergent thinking. (Ch. 13)
+divided attention The skill of performing multiple tasks simultaneously. (Ch.
+5)double-blind procedure An experimental design in which neither the
+research participant nor the person administering the procedure knows
+whether the participant is in the experimental or the control group, or
+whether a particular trial (or test session) is in the experimental
+condition or the control condition. Among other advantages, this step
+ensures that there will be no systematic differences between the
+conditions in how participants are treated or in participants’ expectations
+for the procedure.
+double dissociation A pattern of results in which, with some manipulations,
+one process or structure is influenced more than a second, but then, with
+other manipulations, the second process or structure is influenced more
+than the first. With this pattern of results, it is clear that neither structure
+or process is simply a “weaker” or “more easily manipulated” version of
+the other. Instead, the data pattern tells us that the two structures are
+genuinely (and qualitatively) distinct from each other, each governed by
+its own principles.
+DRM paradigm A commonly used experimental design, named after its
+originators (Deese, Roediger, and McDermott), for eliciting and studying
+memory errors. In this procedure, a person sees or hears a list of words
+that are related to a single theme, however, the word that names the theme
+is not itself included. Nonetheless, people are very likely to remember
+later that the theme word was presented. (Ch. 8)
+dual coding A theory that imageable materials, such as high-imagery words,
+will be doubly represented in memory: The word itself will be
+remembered, and so will the corresponding mental image. (Ch. 11)
+dual-process model Any model of thinking that claims people have two
+distinct means of making judgments—one of which is fast, efficient, but
+prone to error, and one that is slower, more effortful, but also more
+accurate. (Ch. 12)
+early selection hypothesis A proposal that selective attention operates at an
+early stage of processing, so that the unattended inputs receive little
+analysis. (Ch. 5)
+edge enhancement A process created by lateral inhibition in which the
+neurons in the visual system give exaggerated responses to edges of
+surfaces. (Ch. 3)effect size A statistical measure of how large the difference is between two
+groups or between two conditions.
+eidetic imagery A relatively rare capacity in which the person can retain
+long-lasting and detailed visual images of scenes that can be scrutinized
+as if they were still physically present. (Ch. 11)
+Einstellung This term is sometimes used interchangeably with the term
+problem-solving set, but is often used more specifically to refer to a
+rigidity that can grow out of early efforts in solving a series of problems.
+If these early efforts are successful, the person will likely continue using
+the same method, even if there is a seemingly-obvious and much more
+efficient solution available for subsequent problems in that series. (Ch.
+13)
+electroencephalogram (EEG) A recording of voltage changes occurring at
+the scalp that reflect activity in the brain underneath. (Ch. 2)
+emotional intelligence The ability to understand one’s own and others’
+emotions and to control one’s emotions appropriately. (Ch. 14)
+encoding specificity The tendency, when memorizing, to place in memory
+both the materials to be learned and some amount of their context. As a
+result, these materials will be recognized as familiar, later on, only if the
+materials appear again in a similar context. (Ch. 7)
+endogenous control of attention A mechanism through which a person
+chooses (often, on the basis of some meaningful signal) where to focus
+attention. (Ch. 5)
+event-related potentials Changes in an electroencephalogram (EEG) in the
+brief period just before, during, and after an explicitly defined event,
+usually measured by averaging together many trials in which this event
+has occurred. (Ch. 2)
+excitatory connection A link from one node, or one detector, to another,
+such that activation of one node activates the other. Often contrasted with
+inhibitory connection. (Ch. 4)
+executive control The mental resources and processes that are used to set
+goals, choose task priorities, and avoid conflict among competing habits
+or responses. (Ch. 5)
+exemplar-based reasoning Reasoning that draws on knowledge about
+specific category members, or exemplars, rather than drawing on moregeneral information about the overall category. (Ch. 9)
+exogenous control of attention A mechanism through which attention is
+automatically directed, essentially as a reflex response, to some
+“attention-grabbing” input. (Ch. 5)
+experimental condition A situation or condition that includes the factor the
+researcher is trying to evaluate. Usually contrasted with control
+condition.
+explicit memory A memory revealed by direct memory testing and usually
+accompanied by the conviction that one is, in fact, remembering—that is,
+drawing on some sort of knowledge (perhaps knowledge about a specific
+prior episode, or perhaps more general knowledge). Often contrasted
+with implicit memory. (Ch. 7)
+external validity The trait of a research study (or even a specific measure)
+of reflecting the real-world process or phenomenon that the researcher
+hopes to illuminate. A study lacks external validity if people behave
+differently within the study than they would in the corresponding
+circumstance outside of the study.
+extralinguistic context The social and physical setting in which an utterance
+is encountered, usually, cues within this setting guide the interpretation of
+the utterance. (Ch. 10)
+factor analysis A statistical method for studying the interrelations among
+various tests. The goal is to discover the extent to which the tests are
+influenced by the same factors. (Ch. 14)
+familiarity In some circumstances, the subjective feeling that one has
+encountered a stimulus before, in other circumstances, the objective fact
+that one has indeed encountered a stimulus before and is now in some
+way influenced by that encounter, whether or not one recalls that
+encounter or feels that the stimulus is familiar. (Ch. 7)
+family resemblance The idea that members of a category (e.g., all dogs, all
+games) resemble one another. In general, family resemblance relies on
+some number of features being shared by any subset of category
+members, even though these features may not be shared by all members of
+the category. Therefore, the basis for family resemblance may shift from
+one subset of the category to another. (Ch. 9)feature integration theory A proposal about the function of attention in
+“glueing” together elements and features that are in view. (Ch. 5)
+feature nets Systems for recognizing patterns that involve a network of
+detectors, with detectors for features serving as the initial layer in each
+system. (Ch. 4)
+figure/ground organization The processing step in which the perceiver
+determines which aspects of the stimulus belong to the central object (or
+“figure”) and which aspects belong to the background (or “ground”). (Ch.
+3)
+filter A hypothetical mechanism that would block potential distractors from
+further processing. (Ch. 5)
+fixation target A visual mark (e.g., a dot or a plus sign) at which research
+participants point their eyes, or fixate. Fixation targets help research
+participants to control their eye position. (Ch. 5)
+flashbulb memory A memory of extraordinary clarity, typically for some
+highly emotional event, that is retained over many years. Despite their
+remarkable vividness, flashbulb memories sometimes are inaccurate.
+(Ch. 8)
+fluent aphasia A disruption of language, caused by brain damage, in which
+afflicted individuals are able to produce speech but the speech is not
+meaningful, and the individuals are not able to understand what is said to
+them. Often contrasted with nonfluent aphasia. (Ch. 10)
+fluid intelligence The ability to deal with new and unusual problems. See
+also crystallized intelligence. (Ch. 14)
+Flynn effect A worldwide increase in IQ scores over the last several
+decades, occurring in both impoverished and developed nations, and
+proceeding at a rate of roughly 3 points per decade. (Ch. 14)
+forebrain One of the three main structures (along with the hindbrain and the
+midbrain) of the brain, the forebrain plays a crucial role in supporting
+intellectual functioning. (Ch. 2)
+four-card task See selection task. (Ch. 12)
+fovea The center of the retina and the region on the eye in which acuity is
+best, when a person looks at an object, they are lining up that object with
+the fovea. (Ch. 3)framing In the context of decision making, a term referring to how the
+options for a decision (or, in some cases, the decision itself) are
+described. Often, the framing determines whether the decision is cast in
+terms of gains or positive attributes (e.g., what you might gain from this
+or that option), or whether the decision is cast in terms of losses or
+negative attributes. (Ch. 12)
+free recall procedure A method used for testing what research participants
+remember, participants are given a broad cue (“What happened
+yesterday?” or “What words were on the list?”) and then try to name the
+relevant items, in any order they choose. It is the flexibility in order that
+makes this recall “free.” (Ch. 6)
+frequency One of the central influences on a detector’s or node’s activation
+level. Frequency refers to whether the detector or node has been
+activated often in the past. Often contrasted with recency—whether the
+detector or node has been activated in the recent past. Note that this usage
+of “frequency” contrasts with the usage of “frequency” within the term
+“frequency estimate” (someone’s assessment of how often an event has
+occurred in the past or how common an object is in the world).
+frequency estimate An essential step in judgment, in which someone makes
+an assessment of how often they have experienced or encountered a
+particular object or event. (Ch. 12)
+frontal lobes The lobe of the brain in each cerebral hemisphere that includes
+the prefrontal area and the primary motor projection area. (Ch. 2)
+functional fixedness A tendency to be rigid in how one thinks about an
+object’s function. This generally involves a strong tendency to think of an
+object only in terms of its typical function. (Ch. 13)
+functional magnetic resonance imaging (fMRI scan) A neuroimaging
+technique that uses magnetic fields to construct a detailed three-
+dimensional representation of the activity levels in different areas of the
+brain at a particular moment in time. (Ch. 2)
+fusiform face area (FFA) A brain area apparently specialized for the
+perception of faces. (Ch. 2)
+ganglion cells A type of neuron in the eye. The ganglion cells receive their
+input from the bipolar cells, and then the axons of the ganglion cellsgather together to form the optic nerve, carrying information back to the
+lateral geniculate nucleus. (Ch. 3)
+garden-path sentence A sentence that initially leads the reader to one
+understanding of how the sentence’s words are related but then requires a
+change in this understanding to comprehend the full sentence. Examples
+are “The old man ships” and “The horse raced past the barn fell.” (Ch.
+10)
+general intelligence (g)A mental capacity that is hypothesized as
+contributing to the performance of virtually any intellectual task. The
+existence of g is documented by the statistical overlap, usually revealed
+through factor analysis, among diverse forms of mental testing. (Ch. 14)
+generalizability A measure of whether it is legitimate to make claims about
+people and situations not involved in a study based on what was
+observed within the study.
+generativity The trait that enables someone to combine and recombine basic
+units to create (or “generate”) new and more complex entities. Linguistic
+rules, for example, are generative because they enable a person to
+combine and recombine a limited set of words to produce a vast number
+of sentences. (Ch. 10)
+geons Basic shapes proposed as the building blocks of all complex three-
+dimensional forms. Geons take the form of cylinders, cones, blocks, and
+the like, and they are combined to form “geon assemblies.” These are
+then combined to produce entire objects. (Ch. 4)
+Gestalt principles A small number of rules that seem to govern how
+observers organize the visual input, grouping some elements together but
+perceiving other elements to be independent of one another. (Ch. 3)
+glia A type of cell found (along with neurons) in the central nervous system.
+Glial cells have many functions, including the support of neurons, the
+repair of neural connections in case of damage, and a key role in guiding
+the initial development of neural connections. A specialized type of glia
+also provide electrical insulation for some neurons, allowing much faster
+transmission of neuronal signals. (Ch. 2)
+goal neglect A pattern of behavior in which people fail to keep their goal in
+mind, so that, for example, they rely on habitual responses even if those
+responses will not move them toward the goal. (Ch. 5)graded membership The idea that some members of a category are “better”
+members and therefore are more firmly in the category than other
+members. (Ch. 9)
+heuristic A strategy that is reasonably efficient and works most of the time.
+In using a heuristic, the person is choosing to accept some risk of error in
+order to gain efficiency. (Ch. 12)
+hill-climbing strategy A commonly used strategy in problem solving. If
+people use this strategy, then whenever their efforts toward solving a
+problem give them a choice, they will choose the option that carries them
+closer to the goal. (Ch. 13)
+hindbrain One of the three main structures (along with the forebrain and the
+midbrain) of the brain, the hindbrain sits atop the spinal cord and
+includes several structures crucial for controlling key life functions. (Ch.
+2)
+hippocampus (pl. hippocampi) A structure in the temporal lobe that is
+involved in the creation of long-term memories and spatial memory. (Ch.
+2)
+holistic perception A process in which the ability to identify an object
+depends on the whole, or the entire configuration, rather than on an
+inventory of the object’s parts. In holistic perception, the parts do play a
+role—but by virtue of creating the patterns that are critical for
+recognition. (Ch. 4)
+hub and spoke model A proposal for how concepts might be represented in
+the brain, with tissue in the anterior temporal lobes serving as the
+“hub”—a brain location that connects and integrates information from
+many other brain areas. The “spokes” represent more specific elements
+of the concept—with (for example) visual information relevant to the
+concept stored in visual areas, relevant action information stored in
+motor areas, and so on. (Ch. 9)
+hypothalamus A small structure at the base of the forebrain that plays a vital
+role in the control of motivated behaviors such as eating, drinking, and
+sexual activity. (Ch. 2)
+ill-defined problem A problem for which the goal state is specified only in
+general terms and the operations available for reaching the goal state are
+not obvious at the start. (Ch. 13)illumination The third in a series of stages often hypothesized as crucial for
+creativity. The first stage is preparation, the second, incubation.
+Illumination is the stage in which some new key insight or new idea
+suddenly comes to mind and is then (on this hypothesis) followed by
+verification. (Ch. 13)
+illusion of truth An effect of implicit memory in which claims that are
+familiar end up seeming more plausible. (Ch. 7)
+image-scanning procedure An experimental procedure in which participants
+are instructed to form a specific mental image and then are asked to scan,
+with their “mind’s eye,” from one point in the image to another. By timing
+these scans, the experimenter can determine how long “travel” takes
+across a mental image. (Ch. 11)
+implicit memory A memory revealed by indirect memory testing and often
+manifested as a priming effect in which current performance is guided or
+facilitated by previous experiences. Implicit memories are often
+accompanied by no conscious realization that one is, in fact, being
+influenced by specific past experiences. Often contrasted with explicit
+memory. (Ch. 7)
+inattentional blindness A pattern in which perceivers seem literally not to
+see stimuli right in front of their eyes, this pattern is caused by the
+participants focusing their attention on some other stimulus and not
+expecting the target to appear. (Ch. 5)
+incidental learning Learning that takes place in the absence of any intention
+to learn and, correspondingly, in the absence of any expectation of a
+subsequent memory test. Often contrasted with intentional learning. (Ch.
+6)
+incubation The second in a series of stages that are often hypothesized as
+crucial for creativity. The first stage is preparation, the third,
+illumination, the fourth, verification. Incubation is hypothesized to
+involve events that occur when a person puts a problem out of their
+conscious thoughts but continues nonetheless to work on the problem
+unconsciously. Many current psychologists are skeptical about this
+process, and they propose alternative accounts for data that ostensibly
+document incubation. (Ch. 13)
+independent variable The factor that distinguishes the control and
+experimental conditions, in most studies, the researcher hopes to learnwhether the independent variable has some impact. If it does, this impact
+will emerge as a contrast between the experimental and the control
+conditions. In many studies, an independent variable has two “levels”—
+absent (in the control condition) versus present (in the experimental
+condition). The independent variable is also sometimes called the
+“predictor variable” because the study is asking, in effect, whether we
+can use this variable to predict the study’s outcome.
+indirect memory testing A form of memory testing in which research
+participants are not told that their memories are being tested. Instead,
+they’re tested in such a way that previous experiences can influence
+current behavior. Examples of indirect tests include word-stem
+completion, the lexical-decision task, and tachistoscopic recognition.
+Often contrasted with direct memory testing. (Ch. 7)
+induction A pattern of reasoning in which a person seeks to draw general
+claims from specific bits of evidence. Often contrasted with deduction.
+(Ch. 12)
+inhibitory connection A link from one node, or one detector, to another,
+such that activation of one node decreases the activation level of the
+other. Often contrasted with excitatory connection. (Ch. 4)
+inspection time The time a person needs to make a simple discrimination
+between two stimuli, used in some settings as a measure of mental speed,
+and then used as a way to test the claim that intelligent people literally
+are capable of faster processing in their brains. (Ch. 14)
+integrative agnosia A disorder caused by a specific form of damage to the
+parietal lobe, people with this disorder appear relatively normal in tasks
+requiring them to detect whether specific features are present in a
+display, but they are impaired in tasks requiring them to judge how the
+features are bound together to form complex objects.
+intentional learning The acquisition of memories in a setting in which
+people know that their memory for the information will be tested later.
+Often contrasted with incidental learning. (Ch. 6)
+interference theory The hypothesis that materials are lost from memory
+because of interference from other materials that are also in memory.
+Interference caused by materials learned prior to the learning episode is
+called “proactive interference”, interference caused by materials learned
+after the learning episode is called “retroactive interference.” (Ch. 8)interposition A monocular distance cue that relies on the fact that objects
+farther away are blocked from view by closer objects that happen to be
+in the viewer’s line of sight. (Ch. 3)
+inter-rater reliability A measure of agreement among different judges, all
+called on to evaluate some idea or product or behavior. If this form of
+reliability is high, we know that the evaluations are neither arbitrary nor
+idiosyncratic.
+introspection The process through which one “looks within,” to observe and
+record the contents of one’s own mental life. (Ch. 1)
+intrusion error A memory error in which a person recalls elements that were
+not part of the original episode. (Ch. 8)
+invalid experiment An experimental procedure that for some reason does not
+measure what it is intended to measure. Often, this is because the
+experiment includes a confound.
+invalid syllogisms A syllogism (such as a categorical syllogism, or a
+syllogism built on a conditional statement) in which the conclusion is
+not logically demanded by the premises. (Ch. 12)
+inversion effect A pattern typically observed for faces in which the specific
+face is much more difficult to recognize if the face is presented upside-
+down, this effect is part of the evidence indicating that face recognition
+relies on processes different from those involved in other forms of
+recognition. (Ch. 4)
+Korsakoff’s syndrome A clinical syndrome characterized primarily by
+dense anterograde amnesia. Korsakoff’s syndrome is caused by damage
+to specific brain regions, and it is often precipitated by a form of
+malnutrition that is common among long-term alcoholics. (Ch. 7)
+lateral fissure The separation dividing the frontal lobes on each side of the
+brain from the temporal lobes. (Ch. 2)
+lateral geniculate nucleus (LGN) An important way station in the thalamus
+that is the first destination for visual information sent from the eyeball to
+the brain. (Ch. 3)
+lateral inhibition A pattern in which cells, when stimulated, inhibit the
+activity of neighboring cells. In the visual system, lateral inhibition in the
+optic nerve creates edge enhancement. (Ch. 3)late selection hypothesis A proposal that selective attention operates at a
+late stage of processing, so that the unattended inputs receive
+considerable analysis. (Ch. 5)
+lens The transparent tissue located near the front of each eye that (together
+with the cornea) plays an important role in focusing incoming light.
+Muscles control the degree of curvature of the lens, allowing the eye to
+form a sharp image on the retina. (Ch. 3)
+lesion A specific area of tissue damage. (Ch. 2)
+level of processing An assessment of how “deeply” newly learned materials
+are engaged, shallow processing involves thinking only about the
+material’s superficial traits, whereas deep processing involves thinking
+about what the material means. Deep processing is typically associated
+with a greater probability of remembering the now-processed
+information. (Ch. 6)
+lexical-decision task A test in which participants are shown strings of letters
+and must indicate, as quickly as possible, whether or not each string of
+letters is a word in their language. It is proposed that people perform this
+task by “looking up” these strings in their “mental dictionary.” (Ch. 7)
+limbic system A set of brain structures including the amygdala,
+hippocampus, and parts of the thalamus. The limbic system is believed
+to be involved in the control of emotional behavior and motivation, and it
+also plays a key role in learning and memory. (Ch. 2)
+limited-capacity system A group of processes in which mental resources
+are limited, so that extra resources supplied to one process must be
+balanced by a withdrawal of resources somewhere else—with the result
+that the total resources expended do not exceed the limit of what is
+available. (Ch. 5)
+linear perspective A cue for distance based on the fact that parallel lines
+seem to converge as they get farther away from the viewer. (Ch. 3)
+linguistic relativity The proposal that the language people speak shapes their
+thought, because the structure and vocabulary of their language create
+certain ways of thinking about the world. (Ch. 10)
+localization of function The research endeavor of determining what specific
+job is performed by a particular region of the brain. (Ch. 2)local representation A mode of representation in which information is
+encoded in a small number of identifiable nodes. Local representations
+are sometimes spoken of as “one idea per node” or “one content per
+location.” Often contrasted with distributed representation. (Ch. 4)
+longitudinal fissure The separation dividing the brain’s left cerebral
+hemisphere from the right. (Ch. 2)
+long-term memory (LTM) The storage system in which we hold all of our
+knowledge and all of our memories. Long-term memory contains
+memories that are not currently activated, those that are activated are
+represented in working memory. (Ch. 6)
+Mach band A type of illusion in which one perceives a region to be slightly
+darker if it is adjacent to a bright region, and also perceives a region to
+be slightly brighter if it is adjacent to a dark region. This illusion, created
+by lateral inhibition, contributes to edge enhancement. (Ch. 3)
+magnetic resonance imaging (MRI scan) A neuroimaging technique that
+uses magnetic fields (created by radio waves) to construct a detailed
+three-dimensional representation of brain tissue. Like CT scans, MRI
+scans reveal the brain’s anatomy, but they are much more precise than CT
+scans. (Ch. 2)
+maintenance rehearsal A rote, mechanical process in which items are
+continually cycled through working memory, merely by being repeated
+over and over. Often contrasted with relational (or elaborative)
+rehearsal. (Ch. 6)
+manner of production The way in which a speaker momentarily obstructs
+the flow of air out of the lungs to produce a speech sound. For example,
+the airflow can be fully stopped for a moment, as in the [t] or [b] sound,
+or the air can continue to flow, as in the pronunciation of [f] or [v]. (Ch.
+10)
+mapping The process of figuring out how aspects of one situation or
+argument correspond to aspects of some other situation or argument, this
+process is crucial for a problem solver’s ability to find and use
+analogies. (Ch. 13)
+mask A visual presentation that is used to interrupt the processing of another
+visual stimulus. (Ch. 4)means-end analysis A strategy used in problem solving in which the person
+is guided, step by step, by the difference between the current state and the
+goal state, and by asking what operations are available for reducing that
+difference. (Ch. 13)
+memory rehearsal Any mental activity that has the effect of maintaining
+information in working memory. Two types of rehearsal are often
+distinguished: maintenance rehearsal and relational (or elaborative)
+rehearsal. (Ch. 6)
+mental resources Some process or capacity needed for performance, but in
+limited supply. (Ch. 5)
+mental rotation task An experimental procedure in which participants have
+to determine whether a shape differs from a target only in its position and
+orientation or whether the shape has a form different from the shape of
+the target. (Ch. 11)
+metacognitive skills Skills that allow people to monitor and control their
+own mental processes. (Ch. 15)
+metalinguistic judgments Cases in which people are asked to assess or
+evaluate language, as opposed to using language as they ordinarily
+would. For example, if asked to assess grammaticality (“Is ‘The elephant
+trampled flowers the’ a grammatical sentence?”), people would be
+making a metalinguistic judgment.
+metamemory People’s knowledge about, awareness of, and control over
+their own memory. (Ch. 15)
+midbrain One of the three main structures (along with the forebrain and the
+hindbrain) of the brain, the midbrain plays an important role in
+coordinating movements, and it contains structures that serve as “relay”
+stations for information arriving from the sensory organs. (Ch. 2)
+mind-body problem The difficulty in understanding how the mind (a
+nonphysical entity) and the body (a physical entity) can influence each
+other, so that physical events can cause mental events, and mental events
+can cause physical ones. (Ch. 15)
+misinformation effect An effect in which reports about an earlier event are
+influenced by misinformation that the person received after experiencing
+the event. In the extreme, misinformation can be used to create false
+memories concerning an entire event that actually never occurred. (Ch. 8)mnemonic strategies Techniques designed to improve memory accuracy and
+to make learning easier, in general, mnemonic strategies seek to help
+memory by imposing an organization on the materials to be learned. (Ch.
+6)
+modal model A nickname for a specific conception of the “architecture” of
+memory. In this model, working memory serves both as the storage site
+for material now being contemplated and as the “loading dock” for long-
+term memory. Information can reach working memory through the
+processes of perception, or it can be drawn from long-term memory.
+Once in working memory, material can be further processed or can
+simply be recycled for subsequent use. This model prompted a large
+quantity of valuable research, but it has now largely been set aside, with
+modern theorizing offering a very different conception of working
+memory. (Ch. 6)
+monocular distance cues Features of the visual stimulus that indicate
+distance even if the stimulus is viewed with only one eye. (Ch. 3)
+morpheme The smallest language unit that carries meaning. Psycholinguists
+distinguish content (or “free”) morphemes (the primary carriers of
+meaning) from function (or “bound”) morphemes (which specify the
+relations among words). (Ch. 10)
+motion parallax A distance cue based on the fact that as an observer moves,
+the retinal images of nearby objects move more rapidly than do the
+retinal images of objects farther away. (Ch. 3)
+myelin sheath The layer of tissue, formed by specialized glial cells, that
+provides insulation around the axons of many neurons. There are,
+however, gaps in this insulation, and the neuronal signal essentially has to
+“jump” from one gap to the next, dramatically increasing the speed of
+neurotransmission. (Ch. 2)
+N The conventional abbreviation for the total number of participants in a
+study or, in some circumstances, the total number of participants in a
+particular condition.
+Necker cube One of the classic reversible (or ambiguous) figures, the
+figure is a two-dimensional drawing that can be perceived as a cube
+viewed from above or as a cube viewed from below. (Ch. 3)neural correlates of consciousness Events in the nervous system that occur
+at the same time as, and may be the biological basis of, a specific mental
+event or state. (Ch. 15)
+neural synchrony A pattern of firing by neurons in which neurons in one
+brain area fire at the same time as neurons in another area, the brain
+seems to use this pattern as an indication that the neurons in different
+areas are firing in response to the same stimulus. (Ch. 3)
+neuroimaging techniques Non-invasive methods for examining either the
+structure or the activation pattern within a living brain. (Ch. 1, Ch. 2.)
+neuron An individual cell within the nervous system. (Ch. 2)
+neuronal workspace hypothesis A specific claim about how the brain
+makes conscious experience possible, the proposal is that “workspace
+neurons” link together the activity of various specialized brain areas, and
+this linkage makes possible integration and comparison of different types
+of information. (Ch. 15)
+neurotransmitter One of the chemicals released by neurons to stimulate
+adjacent neurons. See also synapse. (Ch. 2)
+node An individual unit within an associative network. In a scheme using
+local representations, nodes represent single ideas or concepts. In a
+scheme using distributed representations, ideas or concepts are
+represented by a pattern of activation across a wide number of nodes, the
+same nodes may also participate in other patterns and therefore in other
+representations. (Ch. 7)
+nonfluent aphasia A disruption of language, caused by brain damage, in
+which a person loses the ability to speak or write with any fluency. Often
+contrasted with fluent aphasia. (Ch. 10)
+occipital lobes The rearmost lobe in each cerebral hemisphere, and the one
+that includes the primary visual projection area. (Ch. 2)
+operation span A measure of working memory’s capacity. This measure
+turns out to be predictive of performance in many other tasks, presumably
+because these tasks all rely on working memory. This measure is also the
+modern replacement for the (less useful) measure obtained from the
+digit-span task. (Ch. 6)
+optic flow The pattern of change in the retinal image in which the image
+grows larger as the viewer approaches an object and shrinks as theviewer retreats from it. (Ch. 3)
+optic nerve The bundle of nerve fibers, formed from the retina’s ganglion
+cells, that carries information from the eyeball to the brain. (Ch. 3)
+overregularization error In speech production, an error in which a person
+produces a form that is consistent with a broad pattern, even though that
+pattern does not apply to the current utterance. Examples would include
+uttering the word “foots” (applying the general pattern for plurals to the
+word “foot”) or uttering the word “runned” (applying the general pattern
+for the past tense to the word “run”). Alternatively, in perception or in
+memory, an error in which someone perceives or remembers a word or
+event as being closer to the “norm” than it really is. For example,
+misspelled words are read as though they were spelled correctly,
+atypical events are misremembered in a way that brings them closer to
+more-typical events. (Ch. 10)
+parallel distributed processing (PDP) A system of handling information in
+which many steps happen at once (i.e., in parallel) and in which various
+aspects of the problem or task are represented only in a distributed way.
+(Ch. 9)
+parallel processing A system in which many steps are going on at the same
+time. Usually contrasted with serial processing. (Ch. 3)
+parietal lobes The lobe in each cerebral hemisphere that lies between the
+occipital and frontal lobes and that includes some of the primary
+sensory projection areas, as well as circuits that are crucial for the
+control of attention. (Ch. 2)
+parse To divide an input into its appropriate elements—for example,
+dividing the stream of incoming speech into its constituent words—or a
+sequence of words into its constituent phrases. In some settings, parsing
+also includes the additional step of determining each element’s role
+within the sequence. (Ch. 10)
+peer-review process A key step of quality control used in almost all
+sciences. This process is typically linked to publication in one of the
+field’s specialized journals. Before an article is published, the editor
+solicits an evaluation of the article from scientists who know the material
+(the methods, the background) just as well as the paper’s authors do.
+These people are therefore the author’s “peers,” and their evaluation
+guides the editor in deciding whether a paper should be published or not.Generally, a paper is published only if the peers find no flaws and no
+problems, and, in turn, a paper is taken seriously by other scientists only
+if it is published (and therefore has passed this test).
+peg-word system A type of mnemonic strategy using words or locations as
+“pegs” on which to “hang” the materials to be remembered. (Ch. 6)
+percepts Internal representations of the world that result from perceiving,
+percepts are organized depictions. (Ch. 11)
+perceptual constancy The achievement of perceiving the constant properties
+of objects in the world (e.g., their size, shape, and color) despite changes
+in the sensory information we receive that are caused by changes in our
+viewing circumstances. (Ch. 3)
+perseveration error A pattern of responding in which a person produces the
+same response over and over, even though the person knows that the task
+requires a change in response. This pattern is often observed in patients
+with brain damage in the frontal lobe. (Ch. 5)
+phoneme A unit of sound that distinguishes one word (or one morpheme)
+from another. For example, the words “peg” and “beg” differ in their
+initial phoneme—[p] in one case, [b] in the other. Some contrasts in
+sound, however, do not involve phonemes, these contrasts might indicate
+the speaker’s emphasis or might involve a regional accent, but they do
+not change the identity of the words being spoken. (These contrasts are
+sometimes said to be “subphonemic.”) (Ch. 10)
+phonemic restoration effect A pattern in which people “hear” phonemes
+that actually are not presented but that are highly likely in that context.
+For example, if one is presented with the word “legislature” but with the
+[s] sound replaced by a cough, one is likely to hear the [s] sound anyhow.
+(Ch. 10)
+phonological buffer A passive storage system used for holding a
+representation (essentially an “internal echo”) of recently heard or self-
+produced sounds. (Ch. 6)
+photoreceptors Cells on the retina that are sensitive to light and that
+respond (i.e., send a signal to adjacent cells) when they are stimulated by
+light. (Ch. 3)
+phrase-structure rules Constraints that govern what elements must be
+contained within a phrase and, in many languages, what the sequence ofthose elements must be. (Ch. 10)
+pictorial cues Patterns that can be represented on a flat surface to create the
+sense of a three- dimensional object or scene. (Ch. 3)
+place of articulation The position at which a speaker momentarily obstructs
+the flow of air out of the lungs to produce a speech sound. For example,
+the place of articulation for the [b] sound is the lips, the place of
+articulation for the [d] sound is where the tongue briefly touches the roof
+of the mouth. (Ch. 10)
+population The entire group about which an investigator wants to draw
+conclusions.
+positron emission tomography (PET scan) A neuroimaging technique that
+determines how much glucose (the brain’s fuel) is being used by specific
+areas of the brain at a particular moment in time. (Ch. 2)
+postsynaptic membrane The cell membrane of the neuron “receiving”
+information across the synapse. Often contrasted with presynaptic
+membrane. (Ch. 2)
+practical intelligence The ability to solve everyday problems through
+skilled reasoning that relies on tacit knowledge acquired through
+experience. (Ch. 14)
+pragmatic rules Principles describing how language is ordinarily used,
+listeners rely on these principles to guide their interpretation of what they
+hear. For example, listeners rely on these rules when they interpret the
+question “Can you pass me the salt?” as a request for the salt, not an
+inquiry about someone’s arm strength. (Ch. 10)
+predictive validity An assessment of whether a test measures what it is
+intended to measure, based on whether the test scores correlate with (i.e.,
+can predict) some other relevant criterion. (Ch. 14)
+prefrontal cortex The outer surface (cortex) of the frontmost part of the
+brain (i.e., the frontmost part of the frontal lobe). The prefrontal cortex
+has many functions but is crucial for the planning of complex or novel
+behaviors, so this brain area is often mentioned as one of the main sites
+underlying the brain’s executive functions. (Ch. 2)
+premises The assertions used as the starting point for a logical argument. The
+premises may or may not be true, logic is concerned instead only with
+whether a conclusion follows from the premises. (Ch. 12)preparation In problem solving, the first in a series of stages often
+hypothesized as crucial for creativity. The second stage is incubation, the
+third, illumination, the fourth, verification. Preparation is the stage in
+which one begins effortful work on the problem, often with little
+progress. (Ch. 13)
+prescriptive rules Rules describing how things are supposed to be instead of
+how they are. Often called “normative rules” and contrasted with
+descriptive rules. (Ch. 10)
+presynaptic membrane The cell membrane of the neuron “sending”
+information across the synapse. Often contrasted with postsynaptic
+membrane. (Ch. 2)
+primacy effect An often-observed advantage in remembering the early-
+presented materials within a sequence of materials. This advantage is
+generally attributed to the fact that research participants can focus their
+full attention on these items because, at the beginning of a sequence, the
+participants are not trying to divide attention between these items and
+other items in the series. Often contrasted with the recency effect. (Ch. 6)
+primary motor projection area The strip of tissue, located at the rear of the
+frontal lobe, that is the departure point for nerve cells that send their
+signals to lower portions of the brain and spinal cord, and that ultimately
+result in muscle movement. (Ch. 2)
+primary sensory projection area The main point of arrival in the cortex for
+information arriving from the eyes, ears, and other sense organs. (Ch. 2)
+priming A process through which one input or cue prepares a person for an
+upcoming input or cue. (Ch. 4)
+problem solving A process in which a person begins with a goal and seeks
+some steps that will lead toward that goal. (Ch. 13)
+problem-solving set The starting assumptions that a person uses when trying
+to solve a new problem. These assumptions are often helpful, because
+they guide the person away from pointless strategies. But these
+assumptions can sometimes steer the person away from worthwhile
+strategies, in which case they can be an obstacle to problem solving. (Ch.
+13)
+problem space The set of all states that can be reached in solving a problem,
+as the problem solver moves, by means of the problem’s operations, fromthe problem’s initial state toward its goal state. (Ch. 13)
+processing fluency The speed or ease of processing involved in recognizing
+or thinking about a stimulus or idea, usually understood as a reflection of
+the speed or ease with which activation moves through a processing
+pathway. (Ch. 7)
+processing pathway The sequence of nodes and connections between nodes
+through which activation flows when recognizing or thinking about a
+stimulus or idea. The speed or ease of activation flow is referred to as
+processing fluency. (Ch. 7)
+production task An experimental procedure used in studying concepts, in
+which the participant is asked to name as many examples (e.g., as many
+fruits) as possible. (Ch. 9)
+propositions The smallest unit of knowledge that can be either true or false.
+Propositions are often expressed via simple sentences, but this is merely
+a convenience, other modes of representation are available. (Ch. 9)
+prosody The pattern of pauses and pitch changes that characterize speech
+production. Prosody can be used (among other functions) to emphasize
+elements of a spoken sentence, to highlight the sentence’s intended
+structure, or to signal the difference between a question and an assertion.
+(Ch. 10)
+prosopagnosia A syndrome in which individuals lose their ability to
+recognize faces and to make other fine-grained discriminations within a
+highly familiar category, even though their other visual abilities seem
+intact. (Ch. 4)
+prototype A single “best example,” or average, identifying the “center” of a
+category. (Ch. 9)
+qualia (sing. quale) The subjective conscious experiences, or “raw
+feelings,” of awareness. Examples include the pain of a headache and the
+exact flavor of chocolate. (Ch. 15)
+r The numerical value used in assessing a correlation, varying from –1.00 (a
+perfect inverse correlation) to +1.00 (a perfect correlation).
+r2 The numerical value calculated by multiplying r by itself (that is, by
+squaring r). This value tells you how much of the overall variation in one
+measure can be predicted, based on some second (predictor) measure.
+Equivalently, this value tells you how much your uncertainty about thefirst measure is reduced if you also have access to a second measure that
+predicts the first. If the second measure provides no basis for prediction,
+then r2 is zero. If the second measure perfectly predicts the target value,
+then r2 is 1.0.
+random assignment A procedural step in which participants are assigned
+randomly (perhaps through a coin toss) to one condition of a study or
+another. This step ensures that there are no consistent or systematic
+differences between the participant groups in the two conditions.
+random sampling A procedure in which every member of the population
+being studied has an equal chance of being picked for inclusion in the
+data collection.
+rating task A task in which research participants must evaluate some item or
+category with reference to some dimension, usually expressing their
+response in terms of some number. For example, they might be asked to
+evaluate birds for how typical they are within the category “birds,” using
+a “1” response to indicate “very typical” and a “7” response to indicate
+“very atypical.” (Ch. 9)
+reason-based choice A proposal for how people make decisions. The
+central idea is that people make a choice when—and only when—they
+detect what they believe to be a persuasive reason for making that choice.
+(Ch. 12)
+recall The task of memory retrieval in which the rememberer must come up
+with the desired materials, sometimes in response to a cue that names the
+context in which these materials were earlier encountered (e.g., “Name
+the pictures you saw earlier”), and sometimes in response to a cue that
+broadly identifies the sought-after information (e.g., “Name a fruit” or
+“What is the capital of California?”). Often contrasted with recognition.
+(Ch. 7)
+recency One of the central influences on a detector’s or node’s activation
+level. Recency refers to whether the detector or node has been activated
+in the recent past. Often contrasted with frequency—whether the detector
+or node has been activated often in the past. Note that this usage of
+“recency” contrasts with the usage of “recency” within the term “recency
+effect” (a memory advantage for some types of material).recency effect The tendency to remember materials that occur late in a
+series. If the series was just presented, the recency effect can be
+attributed to the fact that the late-arriving items are still in working
+memory (because nothing else has arrived after these items to bump them
+out of working memory). Often contrasted with the primacy effect. (Ch.
+6)
+receptive field The portion of the visual field to which a cell within the
+visual system responds. If the appropriately shaped stimulus appears in
+the appropriate position, the cell’s firing rate will change. The firing rate
+will not change if the stimulus is of the wrong form or is in the wrong
+position. (Ch. 3)
+recognition The task of memory retrieval in which the items to be
+remembered are presented and the person must decide whether or not the
+item was encountered in some earlier circumstance. For example, one
+might be asked, “Have you ever seen this person before?” or “Is this the
+poster you saw in the office yesterday?” Often contrasted with recall.
+(Ch. 7)
+recognition by components (RBC) model A model of object recognition. In
+this model, a crucial role is played by geons, the (hypothesized) basic
+building blocks out of which all the objects we recognize are
+constructed. (Ch. 4)
+relational (or elaborative) rehearsal A form of mental processing in which
+one thinks about the relations, or connections, among ideas. The
+connections created (or strengthened) in this way will later guide
+memory search. (Ch. 6)
+reliability The degree of consistency with which a test measures a trait or
+attribute. See also test-retest reliability. (Ch. 14)
+“remember/know” distinction A distinction between two experiences a
+person can have in recalling a past event. If you “remember” having
+encountered a stimulus before, then you usually can offer information
+about that encounter, including when, where, and how it occurred. If you
+merely “know” that you encountered a stimulus before, then you’re likely
+to have a sense of familiarity with the stimulus but may have no idea
+when or where it was last encountered. (Ch. 7)
+repetition priming A pattern of priming that occurs simply because a
+stimulus is presented a second time, processing is more efficient on thesecond presentation. (Ch. 4)
+replication A re-running of a study in order to ask whether the results are
+reliable (i.e., emerge in the subsequent running of the study just as they
+did in the first). In a “direct” replication, the researchers repeat the
+earlier experiment with no changes. In a “conceptual” replication, the
+researchers use a slightly different procedure to test the hypothesis or
+confirm the initial result.
+representativeness heuristic A strategy that is often used in making
+judgments about categories. This strategy is broadly equivalent to making
+the assumption that, in general, the instances of a category will resemble
+the prototype for that category and, likewise, that the prototype resembles
+each instance. (Ch. 12)
+response threshold The quantity of information or activation needed to
+trigger a response in a node or detector, or, in a neuroscience context, a
+response from a neuron. (Ch. 4)
+response time (RT) The amount of time (usually measured in milliseconds)
+needed for a person to respond to a particular event (such as a question
+or a cue to press a specific button). (Ch. 1)
+retention interval The amount of time that passes between the initial
+learning of some material and the subsequent memory retrieval of that
+material. (Ch. 8)
+retina The light-sensitive tissue that lines the back of the eyeball. (Ch. 3)
+retrieval The process of locating information in memory and activating that
+information for use. (Ch. 6)
+retrieval failure A mechanism that probably contributes to a great deal of
+forgetting. Retrieval failure occurs when a memory is, in fact, in long-
+term storage but the person is unable to locate that memory when trying to
+retrieve it. (Ch. 8)
+retrieval paths A connection (or series of connections) that can lead to a
+sought-after memory in long-term storage. (Ch. 6)
+retrograde amnesia An inability to remember experiences that occurred
+before the event that triggered the memory disruption. Often contrasted
+with anterograde amnesia. (Ch. 7)
+reversible (or ambiguous) figure Drawings that can be readily perceived in
+more than one way. Classic examples include the vase/profiles, theduck/rabbit, and the Necker cube. (Ch. 3)
+risk aversion A tendency toward avoiding risk. People tend to be risk averse
+when contemplating gains, choosing instead to hold tight to what they
+already have. Often contrasted with risk seeking. (Ch. 12)
+risk seeking A tendency toward seeking out risk. People tend to be risk
+seeking when contemplating losses, presumably because they’re willing
+to gamble in hopes of avoiding (or diminishing) their losses. Often
+contrasted with risk aversion. (Ch. 12)
+rodsPhotoreceptors that are sensitive to very low light levels but that are
+unable to discriminate hues and that have relatively poor acuity. Often
+contrasted with cones. (Ch. 3)
+sample The subset of the population that an investigator studies to learn
+about the population at large.
+savant syndrome A pattern of traits in a disabled person such that the person
+has some remarkable talent that contrasts with their very low level of
+general intelligence. (Ch. 14)
+schema Knowledge describing what is typical or frequent in a particular
+situation. For example, a “kitchen schema” would stipulate that a stove
+and refrigerator are likely to be present, whereas a coffeemaker may be
+or may not be present, and a piano is not likely to be present. (Ch. 8)
+selection task An experimental procedure, commonly used to study
+reasoning, in which a person is presented with four cards with certain
+information on either side of the card. The person is also given a rule that
+may describe the cards, and the person’s task is to decide which cards
+must be turned over to find out if the rule describes the cards or not. Also
+called the four-card task. (Ch. 12)
+selective attention The skill through which a person focuses on one input or
+one task while ignoring other stimuli that are also on the scene. (Ch. 5)
+self-report data A form of evidence in which a person is asked directly
+about their own thoughts or experiences. (Ch. 11)
+self-schema The set of interwoven beliefs and memories that constitute one’s
+knowledge about oneself.
+self-selected group A comparison in which research participants decide for
+themselves which condition of the study they will be in (e.g., the control
+condition or the experimental condition). This situation is likely tocause concern about a third-variable problem because presumably
+participants choose one condition or another for some reason—some
+preference or trait or inclination that the participants have prior to the
+study. The concern, then, is that the preexisting preference or trait, and
+not the independent variable, might be causing the difference observed
+in the dependent variable.
+semantic priming A process in which activation of an idea in memory
+causes activation to spread to other ideas related to the first in meaning.
+(Ch. 7)
+sensory memory A form of memory that holds on to just-seen or just-heard
+input in a “raw” sensory form. (Ch. 6)
+sentence A sequence of words that conforms to the rules of syntax (and so
+has the right constituents in the right sequence). (Ch. 10)
+sentence verification task An experimental procedure used for studying
+memory in which participants are given simple sentences (e.g., “Cats are
+animals”) and must respond as quickly as possible whether the sentence
+is true or false. (Ch. 9)
+serial position A data pattern summarizing the relationship between some
+performance measure (often, likelihood of recall) and the order in which
+the test materials were presented (i.e., where the materials were located
+within the series). In memory studies, the serial-position curve tends to
+be U-shaped, with people being best able to recall the first-presented
+items (the primacy effect) and also the last-presented items (the recency
+effect). (Ch. 6)
+serial processing A system in which only one step happens at a time (and so
+the steps occur in a series). Usually contrasted with parallel processing.
+(Ch. 3)
+shadowing A task in which research participants repeat back a verbal input,
+word for word, as they hear it. (Ch. 5)
+shallow processing A mode of thinking about material in which one pays
+attention only to appearances and other superficial aspects of the
+material, shallow processing typically leads to poor memory retention.
+Often contrasted with deep processing. (Ch. 6)
+shape constancy The achievement of perceiving the constant shape of
+objects despite changes in the shape of the retinal image that result fromvariations in viewing angle. (Ch. 3)
+short-term memory An older term for what is now called working memory.
+(Ch. 6)
+single-cell recording A technique for recording the moment-by-moment
+activation level of an individual neuron within a healthy, normally
+functioning brain. (Ch. 3)
+size constancy The achievement of perceiving the constant size of objects
+despite changes in the size of the retinal image that result from variations
+in viewing distance. (Ch. 3)
+somatic markers States of the body used in decision making. For example, a
+tight stomach and an accelerated heart rate when a person is thinking
+about a particular option can signal to the person that the option has risk
+associated with it. (Ch. 12)
+source confusion A memory error in which one misremembers where a bit
+of information was learned or where a particular stimulus was last
+encountered. (Ch. 7)
+source memory A form of memory that enables a person to recollect the
+episode in which learning took place or the time and place in which a
+particular stimulus was encountered. (Ch. 7)
+spatial attention The mechanism through which people allocate processing
+resources to particular positions in space, so that they more efficiently
+process any inputs from that region in space. (Ch. 5)
+specific-language impairment (SLI) A disorder in which individuals seem
+to have normal intelligence but experience problems in learning the rules
+of language. (Ch. 10)
+speech segmentation The process through which a stream of speech is
+“sliced” into its constituent words and, within words, into the constituent
+phonemes. (Ch. 10)
+spreading activation A process through which activation travels from one
+node to another, via associative links. As each node becomes activated,
+it serves as a source for further activation, spreading onward through the
+network. (Ch. 7)
+stereotype threat A mechanism through which a person’s performance is
+influenced by the perception that their score will confirm stereotypes
+about their group. (Ch. 14)storage The state in which a memory, once acquired, remains until it is
+retrieved. Many people understand storage to be a “dormant” process, so
+that the memory remains unchanged while it is in storage. Modern
+theories, however, describe a more dynamic form of storage, in which
+older memories are integrated with (and sometimes replaced by) newer
+knowledge. (Ch. 6)
+Stroop interference A classic demonstration of automaticity in which
+research participants are asked to name the color of ink used to print a
+word, and the word itself is the name of a different color. For example,
+participants might see the word “YELLOW” printed in blue ink and be
+required to say “blue.” Considerable interference is observed in this
+task, with participants apparently being unable to ignore the word’s
+content even though it is irrelevant to their task. (Ch. 5)
+subcortical structures Identified pieces of the brain that are underneath the
+cortex and therefore are hidden from view in drawings of an intact brain.
+These structures include the thalamus, the hypothalamus, and the various
+components of the limbic system. (Ch. 2)
+subliminal perception A pattern in which people perceive and are in some
+ways influenced by inputs they did not consciously notice. (Ch. 15)
+subthreshold activationActivation levels below response threshold.
+Subthreshold activation, by definition, will not trigger a response,
+nonetheless, this activation is important because it can accumulate,
+leading eventually to an activation level that reaches (or exceeds) the
+response threshold. (Ch. 7)
+subvocalization Covert speech in which one goes through the motions of
+speaking, or perhaps forms a detailed motor plan for speech movements,
+but without making any sound. (Ch. 6)
+summation The addition of two or more separate inputs so that the effect of
+the combined inputs is greater than the effect of any one input by itself.
+(Ch. 7)
+synapse The area that includes the presynaptic membrane of one neuron, the
+postsynaptic membrane of another neuron, and the tiny gap between
+them. The presynaptic membrane releases a small amount of
+neurotransmitter that drifts across the gap and stimulates the
+postsynaptic membrane. (Ch. 2)syntax Rules governing the sequences and combinations of words in the
+formation of phrases and sentences. (Ch. 10)
+systematic data collection A pattern of recording and collecting data for a
+study in which all of the evidence is collected, or, at least, in which
+evidence is collected in a way that is independent of the hypothesis being
+considered.
+tachistoscope A device that allows the presentation of stimuli for precisely
+controlled amounts of time, including very brief presentations. (Ch. 4)
+temporal lobes The lobe of the cortex lying inward and down from the
+temples. The temporal lobe in each cerebral hemisphere includes the
+primary auditory projection area, Wernicke’s area, and, subcortically, the
+amygdala and hippocampus. (Ch. 2)
+testable hypothesis A supposition about the facts that may or may not turn
+out to be true, but that is stated in a way that allows unambiguous testing
+—that is, it allows a persuasive determination of whether the supposition
+is true.
+test-retest reliability An assessment of whether a test is consistent in what it
+measures from one occasion to another, determined by asking whether the
+test’s results on one occasion are correlated with results from the same
+test (or a close variant on it) given at a later time. (Ch. 14)
+thalamus A part of the lower portion of the forebrain that serves as a major
+relay and integration center for sensory information. (Ch. 2)
+theory of multiple intelligences A proposal that there are many forms of
+intelligence, including linguistic, spatial, musical, bodily-kinesthetic, and
+personal. (Ch. 14)
+third-variable problem A concern that arises when two variables (say: X
+and Y) are correlated. In such cases, there is likely to be some ambiguity
+about whether X causes Y or Y causes X. But, in addition, it is possible
+that neither of these variables causes the other. Instead, X and Y might be
+correlated because both are the result of some other factor (the “third
+variable”). An example might be taking Latin in high school and doing
+well in college. Here, the third variable might be “being academically
+serious and ambitious,” which both leads a student to study Latin in high
+school and also enables the student to do well in college.threshold The activity level at which a cell or detector responds, or fires.
+(Ch. 2)
+top-down processing A sequence of events that is heavily shaped by the
+knowledge and expectations that the person brings to the situation. Often
+contrasted with bottom-up processing. (Ch. 4)
+TOT phenomenon An often-observed effect in which people are unable to
+remember a particular word, even though they are certain that the word
+(typically identified via its definition) is in their vocabulary. People in
+this state often can remember the starting letter for the word and its
+number of syllables, and they insist that the word is on the “tip of their
+tongue” (therefore, the “TOT” label). (Ch. 8)
+transcendental method A type of theorizing proposed by the philosopher
+Immanuel Kant. To use this method, an investigator first observes the
+effects or consequences of a process and then asks: What must the
+process have been to bring about these effects? (Ch. 1)
+transcranial magnetic stimulation (TMS) A technique in which a series of
+strong magnetic pulses at a specific location on the scalp causes
+temporary disruption in the brain region directly underneath this scalp
+area. (Ch. 2)
+tree structure A style of depiction often used to indicate hierarchical
+relationships, such as the relationships (specified by phrase-structure
+rules) among the words in a phrase or sentence. (Ch. 10)
+Type 1 thinking A commonly used name for judgment and reasoning
+strategies that are fast and effortless, but prone to error. (Ch. 12)
+Type 2 thinking A commonly used name for judgment and reasoning
+strategies that are slower and require more effort than Type 1 thinking.
+(Ch. 12)
+typicality The degree to which a particular case (an object, situation, or
+event) is typical for its kind. (Ch. 9)
+unattended channel A stimulus (or group of stimuli) that a person is not
+trying to perceive. Ordinarily, little information is understood or
+remembered from the unattended channel. Often contrasted with attended
+channel. (Ch. 5)
+unconscious inference The hypothesized steps that perceivers follow in
+order to take one aspect of the visual scene (e.g., viewing distance) intoaccount in judging another aspect (e.g., size). (Ch. 3)
+unilateral neglect syndrome A pattern of symptoms in which affected
+individuals ignore all inputs coming from one side of space. Individuals
+with this syndrome put only one of their arms into their jackets, eat food
+from only half of their plates, read only half of words (e.g., they might
+read “blouse” as “use”), and so on. (Ch. 2)
+utility maximization The proposal that people make decisions by selecting
+the option that has the greatest utility. (Ch. 12)
+validity The extent to which a method or procedure measures what it is
+supposed to measure. Validity is assessed in a variety of ways, including
+through predictive validity. (Ch. 14)
+valid syllogisms A syllogism for which the conclusion follows from the
+premise, in accord with the rules of logic. (Ch. 12)
+verification One of the four steps that are commonly hypothesized as part of
+creative problem solving, in this step, the problem solver confirms that a
+new idea really does lead to a problem solution, and then they work out
+the details. (The other steps are preparation, incubation, and
+illumination.) (Ch. 13)
+viewpoint-dependent recognition A process in which the ease or success of
+recognition depends on the perceiver’s particular viewing angle or
+distance with regard to the target object.
+viewpoint-independent recognition A process in which the ease or success
+of recognition does not depend on the perceiver’s particular viewing
+angle or distance with regard to the target object.
+visual features The elements of a visual pattern—vertical lines, curves,
+diagonals, and so on— that, together, form the overall pattern. (Ch. 3)
+visual search task An often-used laboratory task in which research
+participants are asked to search for a specific target (e.g., a shape, or a
+shape of a certain color) within a field of other stimuli, usually, the
+researcher is interested in how quickly the participants can locate the
+target. (Ch. 4)
+visuospatial buffer One of the low-level assistants used as part of the
+working-memory system. This buffer plays an important role in storing
+visual or spatial representations, including visual images.voicing One of the properties that distinguishes different categories of speech
+sounds. A sound is considered “voiced” if the vocal folds are vibrating
+while the sound is produced. If the vocal folds start vibrating sometime
+after the sound begins (i.e., with a long voice-onset time), the sound is
+considered “unvoiced.” (Ch. 10)
+well-formedness A measure of the degree to which a string of symbols
+(usually letters) conforms to the usual patterns (for letters: the rules of
+spelling), for example, the nonword “FIKE” is well formed in English,
+but “IEFK” is not. (Ch. 4)
+Wernicke’s area An area in the temporal lobe of the brain, where the
+temporal and parietal lobes meet, damage here typically causes fluent
+aphasia. (Ch. 10)
+what system The system of visual circuits and pathways leading from the
+visual cortex to the temporal lobe and especially involved in object
+recognition. Often contrasted with the where system. (Ch. 3)
+where system The system of visual circuits and pathways leading from the
+visual cortex to the parietal lobe and especially involved in the spatial
+localization of objects and in the coordination of movements. Often
+contrasted with the what system. (Ch. 3)
+word-stem completion A task in which research participants are given the
+beginning of a word (e.g., “TOM”) and must provide a word that starts
+with the letters provided. In some versions of the task, only one solution
+is possible, so performance is measured by counting the number of words
+completed. In other versions of the task, several solutions are possible
+for each stem, and performance is assessed by determining which
+responses fulfill some other criterion. (Ch. 7)
+word-superiority effect (WSE) The data pattern in which research
+participants are more accurate and more efficient in recognizing letters if
+the letters appear within a word (or a word-like letter string) than they
+are in recognizing letters appearing in isolation. (Ch. 4)
+working memory The storage system in which information is held while that
+information is being worked on. All indications are that working memory
+is a system, not a single entity, and that information is held here via active
+processes, not via some sort of passive storage. Formerly called short-
+term memory. (Ch. 6)working-memory capacity (WMC) A measure of working memory derived
+from operation span tasks. Although termed a “memory capacity,” this
+measure can perhaps best be understood as a measure of a person’s
+ability to store some materials while simultaneously working with other
+materials. (Ch. 6)
+working-memory system A system of mental resources used for holding
+information in an easily accessible form. The central executive is at the
+heart of this system, and the executive then relies on a number of low-
+level assistants, including the visuospatial buffer and the articulatory
+rehearsal loop. (Ch. 6)
