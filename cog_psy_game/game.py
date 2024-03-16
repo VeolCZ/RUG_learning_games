@@ -102,12 +102,12 @@ def main():
         assessment = input("Did you get the answer right? (y/n): ").lower()
         if assessment == "y":
             # Remove term only if it's answered correctly in all past occurrences
+            update_history(term, True, history_filename)
             if all(
                 correct
                 for _, correct in history_df[history_df["Term"] == term]["Correct"]
             ):
                 terms_df = terms_df.drop(terms_df[terms_df["Term"] == term].index)
-            update_history(term, True, history_filename)
             if terms_df.empty:
                 print("\nCongratulations! You've learned all the terms.")
                 break
