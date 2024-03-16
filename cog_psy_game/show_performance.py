@@ -34,24 +34,38 @@ def process_csv_data(filename):
                 total + 1,
             )
 
-    # Calculate success rates
+    # Calculate success rates and total success rate
     success_rates = {
         term: calculate_success_rate(correct, total)
         for term, (correct, total) in term_data.items()
     }
-    return terms, success_rates
+
+    total_correct = sum(correct for _, correct in term_data.values())
+    total_count = sum(total for _, total in term_data.values())
+    total_success_rate = calculate_success_rate(total_correct, total_count)
+
+    return terms, success_rates, total_success_rate
 
 
 # Get data from CSV file (replace "your_file.csv" with the actual filename)
-terms, success_rates = process_csv_data("history.csv")
+terms, success_rates, total_success_rate = process_csv_data("history.csv")
 success_rate_values = [success_rates[term] for term in terms]
 
-# Plot the bar graph
+
+# Plot the bar graph (updated for sorting)
 plt.figure(figsize=(10, 6))
-plt.bar(terms, success_rate_values, color="skyblue")
+
+# Sort terms and success_rate_values together based on success rates
+sorted_indices = sorted(
+    range(len(success_rate_values)), key=success_rate_values.__getitem__
+)
+sorted_terms = [terms[i] for i in sorted_indices]
+sorted_success_rates = [success_rate_values[i] for i in sorted_indices]
+
+plt.bar(sorted_terms, sorted_success_rates, color="skyblue")
 plt.xlabel("Term")
 plt.ylabel("Success Rate (%)")
-plt.title("Success Rate of Unique Terms")
+plt.title("Success Rate of Unique Terms (Sorted)")
 plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.show()
