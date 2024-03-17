@@ -7,8 +7,8 @@ Description:
 """
 
 import random
-import pandas as pd
 from datetime import datetime
+import pandas as pd
 
 PRACTICE_TRESHOLD = 2  # amout of times for each term to be practiced
 
@@ -99,9 +99,11 @@ def main():
     history_filename = "history.csv"
     terms_df = load_terms(terms_filename)
     history_df = load_history(history_filename)
+    terms_to_review = prioritize_terms(terms_df, history_df)
+    print("Terms left to learn:", len(terms_to_review.values.tolist()))
 
     while True:
-        terms_to_review = prioritize_terms(terms_df.copy(), history_df.copy())
+        terms_to_review = prioritize_terms(terms_df, history_df)
         if terms_to_review.empty:
             print("Congratulations! You seem to know all the terms.")
             break
