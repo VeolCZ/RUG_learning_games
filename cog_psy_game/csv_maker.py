@@ -1,3 +1,11 @@
+"""
+File:   csv_maker.py
+Authors: Jakub Janicek (j.janicek@student.rug.nl)
+
+Description:
+    This program creates a csv of terms from the glossart in the cogpsy book.
+"""
+
 import pandas as pd
 import re
 
@@ -12,7 +20,7 @@ def sanitize_text(text: str):
     """
     # text = re.sub(r"\s+", " ", text).strip()
     # text = re.sub(r"[^\w\s\(\)]", "", text)
-    return text
+    return text.strip()
 
 
 def find_first_capital(text: str):

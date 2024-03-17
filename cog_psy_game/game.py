@@ -1,6 +1,16 @@
+"""
+File:   game.py
+Authors: Jakub Janicek (j.janicek@student.rug.nl)
+
+Description:
+    This program plays a game similar to flash cards with you. It saves you lerned terms to history.csv. PRACTICE_TRESHOLD sets the amout of practice for each term.
+"""
+
 import pandas as pd
 import random
 from datetime import datetime
+
+PRACTICE_TRESHOLD = 2  # amout of times for each term to be practiced
 
 
 def load_terms(filename):
@@ -55,7 +65,7 @@ def prioritize_terms(terms_df, history_df):
         history_df: A pandas DataFrame containing term history.
 
     Returns:
-        A pandas Series containing prioritized terms with incorrect count.
+        A pandas Series containing terms that need review.
     """
     merged_df = terms_df.merge(
         history_df.groupby("Term")["Correct"].count().reset_index(),
@@ -63,8 +73,9 @@ def prioritize_terms(terms_df, history_df):
         on="Term",
     )
     merged_df.fillna(0, inplace=True)
-    merged_df["Incorrect Count"] = merged_df["Correct"] - merged_df["Correct"]
-    return merged_df.sort_values(by="Incorrect Count", ascending=False)["Term"]
+    merged_df["Needs Review"] = merged_df["Correct"] < PRACTICE_TRESHOLD
+    df_filtered = merged_df.drop(merged_df[merged_df["Needs Review"] == False].index)
+    return df_filtered
 
 
 def update_history(term, correct, history_filename):
@@ -90,8 +101,11 @@ def main():
     history_df = load_history(history_filename)
 
     while True:
-        prioritized_terms = prioritize_terms(terms_df.copy(), history_df)
-        term = random.choice(prioritized_terms.tolist())
+        terms_to_review = prioritize_terms(terms_df.copy(), history_df.copy())
+        if terms_to_review.empty:
+            print("Congratulations! You seem to know all the terms.")
+            break
+        term = random.choice(terms_to_review.tolist())
         definition = terms_df[terms_df["Term"] == term]["Definition"].values[0]
         display_term(term)
 
