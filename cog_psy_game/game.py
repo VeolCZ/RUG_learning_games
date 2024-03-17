@@ -6,8 +6,8 @@ Description:
     This program plays a game similar to flash cards with you. It saves you lerned terms to history.csv. PRACTICE_TRESHOLD sets the amout of practice for each term.
 """
 
-import pandas as pd
 import random
+import pandas as pd
 from datetime import datetime
 
 PRACTICE_TRESHOLD = 2  # amout of times for each term to be practiced
@@ -102,11 +102,13 @@ def main():
 
     while True:
         terms_to_review = prioritize_terms(terms_df.copy(), history_df.copy())
+        print(terms_to_review)
         if terms_to_review.empty:
             print("Congratulations! You seem to know all the terms.")
             break
-        term = random.choice(terms_to_review.tolist())
-        definition = terms_df[terms_df["Term"] == term]["Definition"].values[0]
+        pair = random.choice(terms_to_review.values.tolist())
+        term = pair[0]
+        definition = pair[1]
         display_term(term)
 
         show_answer = input("Press Enter to show answer: ")
