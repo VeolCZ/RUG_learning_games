@@ -102,10 +102,10 @@ def main():
 
     while True:
         terms_to_review = prioritize_terms(terms_df.copy(), history_df.copy())
-        print(terms_to_review)
         if terms_to_review.empty:
             print("Congratulations! You seem to know all the terms.")
             break
+
         pair = random.choice(terms_to_review.values.tolist())
         term = pair[0]
         definition = pair[1]
