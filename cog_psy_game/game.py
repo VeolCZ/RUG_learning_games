@@ -106,6 +106,7 @@ def main():
         terms_to_review = prioritize_terms(terms_df, history_df)
         if terms_to_review.empty:
             print("Congratulations! You seem to know all the terms.")
+            print("To practie more increase you PRACTICE_TRESHOLD.")
             break
 
         pair = random.choice(terms_to_review.values.tolist())
