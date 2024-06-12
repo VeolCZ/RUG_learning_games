@@ -3,7 +3,8 @@ File:   game.py
 Authors: Jakub Janicek (j.janicek@student.rug.nl)
 
 Description:
-    This program plays a game similar to flash cards with you. It saves you lerned terms to history.csv. PRACTICE_TRESHOLD sets the amout of practice for each term.
+    This program plays a game similar to flash cards with you. It saves you lerned terms to history.csv.
+    PRACTICE_TRESHOLD sets the amout of practice for each term.
 """
 
 import random

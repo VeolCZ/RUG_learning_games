@@ -1,0 +1,10 @@
+intension; What we refer to in a sentence i.e. Gen ling teacher
+extension; The actual target of intension i.e. Suzan
+statements; Senteces that can be proven True or False
+propositions: Statements that express a True or False relationship
+when does S1 entail S2; Iff when S1 is True S2 is True and S1 is False S2 is False i.e., Jakub ate pizza - Pizza is eaten
+S1 and S2 are in equvivalence relationship if?; If S1 entails S2 and S2 entails S1 i.e., Jakub ate pizza - Pizza is eaten
+S1 and S2 are in contradiction relationship if?; If S1 entails S2 is False and vice versa i.e., Jaku is her etails that Jakub is not here is False
+propositions are tautologies if?; If for proposition1 it must be true that proposition2 i.e.,  Jakub is a big animal -> Jakub is an animal
+pressuposition; truths taken for granted based on our knowladge of the world i.e. Jakub is smart human -> Jakub is a human
+what is difference between entailnment and pressupositions?; Pressupositions survive negation whilst entailnments do not i.e., Czechia has a king called Jakub entails that there is a man called Jakub, whilst Czechia does not have a king called Jakub does not entail that Czechia has a king. On the other hand Jakub does not remember signing the contract and Jakub does remember signing the contract has a pressuposition relationship as from both we can concluded that Jakub did sign the contract
